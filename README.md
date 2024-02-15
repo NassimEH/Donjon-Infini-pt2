@@ -15,6 +15,10 @@ This project is the second part of our collaborative effort to create an "Infini
 - Java Programming Language
 - Java Swing
 
+## Note
+
+Don't forget to unzip the music.rar file inside of the DonjonInfini-V2.zip if you want to have the music
+
 ## Authors
 
 - [Nassim EL HADDAD](https://github.com/YourGitHubProfile)
