@@ -4,7 +4,7 @@
 
 Ce projet constitue la deuxième partie de notre effort collaboratif pour créer un jeu "Infinite Dungeon" en Java en utilisant Java Swing. En plus de suivre les instructions fournies par notre professeur, nous avons ajouté nos propres fonctionnalités et améliorations uniques au jeu. La partie 2 s'appuie sur les bases posées dans la partie 1 et introduit de nouveaux éléments de gameplay pour rendre l'expérience encore plus engageante et excitante.
 
-### Comment Jouer (Partie 2)
+### Comment Jouer 
 
 1. Clonez le dépôt sur votre machine locale.
 2. Compilez le code source Java en utilisant un compilateur Java (par exemple, javac).
@@ -23,7 +23,7 @@ N'oubliez pas de décompresser le fichier music.rar à l'intérieur de DonjonInf
 
 This project is the second part of our collaborative effort to create an "Infinite Dungeon" game in Java using Java Swing. In addition to following the instructions provided by our professor, we've added our own unique features and enhancements to the game. Part 2 builds upon the foundation laid in Part 1 and introduces new gameplay elements to make the experience even more engaging and exciting.
 
-### How to Play (Part 2)
+### How to Play 
 
 1. Clone the repository to your local machine.
 2. Compile the Java source code using a Java compiler (e.g., javac).
